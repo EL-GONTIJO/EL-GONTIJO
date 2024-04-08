@@ -6,9 +6,7 @@
 
 
 
-![El-GONTIJO Github status](https://github-readme-stats.vercel.app/api?username=el-gontijo&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![El-GONTIJO Github status](https://github-readme-stats.vercel.app/api?username=el-gontijo&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnologias que eu uso no meu dia-dia
 
