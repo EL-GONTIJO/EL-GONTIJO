@@ -1,6 +1,14 @@
  
  ### Opa! eu sou o el-gontijo ✌️
- 
+
+<p align="center">
+ Desenvolvedor desde 2022. Analista de Sistemas e Head de Desenvolvimento na TREO Tecnologia. 
+ </p>
+ <p>
+ </p>
+
+
+&nbsp; GitHub Analytics
 
 <p align="center">
  <a href="https://github.com/el-gontijo/github-readme-stats">
@@ -9,6 +17,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" width="35%" height="195">
   </a>
 </p>
+
+&nbsp; Tech Stack
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
