@@ -36,7 +36,7 @@ ________________________________________________________________________________
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.twitch.tv/elgontijo)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logo=twitch&logoColor=white)](https://www.twitch.tv/elgontijo)
 </div><br/>
-__________________________________________________________________________________________________________________________________
+
 
 [![DEVTO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]([https://www.twitch.tv/elgontijo](https://dev.to/))
 
